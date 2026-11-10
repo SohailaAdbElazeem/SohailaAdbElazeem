@@ -1,8 +1,7 @@
-👋 Hi there, I'm Sohaila Abdelazeem!
+👋 Hi, I'm Sohaila Abdelazeem
 
 💻 Front-End Developer | React.js Developer
 
-Welcome to my GitHub profile! 🚀
 # 💫 About Me:
 Front-End Developer | React.js Developer<br><br>I'm a passionate Front-End Developer with a Bachelor's degree in Medical Informatics from Beni Suef University. I specialize in building responsive, user-friendly web applications using modern web technologies.<br><br>I have hands-on experience with React.js and JavaScript, along with a good understanding of back-end technologies through the MERN Stack.<br><br>🚀 Technical Skills<br><br>Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Material UI<br><br>State Management: React Hooks, Context API, TanStack Query<br><br>Backend: Node.js, Express.js, MongoDB<br><br>Tools: Git, GitHub, Postman, VS Code<br><br>Other: REST APIs, Responsive Design, JWT Authentication<br><br>💻 Experience & Education<br><br>Frontend Developer – Panda Oracle<br><br>MERN Stack Graduate – Information Technology Institute (ITI)<br><br>B.Sc. in Medical Informatics – Beni Suef University | Excellent with Honors<br><br>🌱 Currently Learning<br><br>Improving my React.js skills, exploring advanced frontend concepts, and building scalable web applications.<br>
 
